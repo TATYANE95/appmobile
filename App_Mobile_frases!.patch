@@ -1,0 +1,15 @@
+Index: lib/main.dart
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- lib/main.dart	(date 1636022348000)
++++ lib/main.dart	(date 1636175095303)
+@@ -74,6 +74,7 @@
+             ),
+           ],
+         ),
++
+       ),
+       floatingActionButton: FloatingActionButton(
+         onPressed: _incrementCounter,
