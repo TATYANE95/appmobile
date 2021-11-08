@@ -1,6 +1,37 @@
-# frases_do_dia
+# 📲frases do dia
 
-Gerador, com frases aleatoreas.
+<br>Gerador com frases aleatoreas permitindo que os usuário</br>
+troque de frases com um simples toque do botão.
+
+![app-removebg-preview](https://user-images.githubusercontent.com/75590291/140683315-32f5d616-292e-431d-89c4-d0f05f1456a9.png)
+
+# índice
+
+- [Sobre](Sobre)
+- [Tecnologias](Tecnologias)
+- [Como baixar o projeto](Como-baixar-o-projeto)
+  
+## 🔎Sobre
+<br> O projeto das **Udemy** é um aplicativo mobile desenvolvido dentro do curso </br>**Desenvolvimento Android e IOS** 
+colocamos em prática todo o conhecimento obtido.
+
+## 💼 Tecnologias
+Foram utilizadas as seguintes tecnologias</br>
+- *Dart*
+- *Flutter*
+
+## ⚙ Ferramentas </br>
+- *Android Studio*
+</br>
+## 🗂 Como baixar o projeto
+
+...bash
+    $
+    $
+    $
+    
+    $
+...
 
 ## Getting Started
 
