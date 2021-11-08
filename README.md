@@ -23,15 +23,21 @@ Foram utilizadas as seguintes tecnologias</br>
 ## ⚙ Ferramentas </br>
 - *Android Studio*
 </br>
+
 ## 🗂 Como baixar o projeto
 
-...bash
-    $
-    $
-    $
-    
-    $
-...
+</br>
+```bash
+   # 
+   #
+   #
+   #
+```
+## ✒ Autor
+
+Tatiane Freire Pereira
+
+https://www.linkedin.com/in/tatiane-silva-2020/
 
 ## Getting Started
 
